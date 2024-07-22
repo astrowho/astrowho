@@ -1,2 +1,3 @@
-I'm Astro!
-I'm eager to learn new things and would love to develop an app about it.
+👾 I'm Astro
+🎱 I love learning, reading and plants 
+🌐 Currently developing a learning app
