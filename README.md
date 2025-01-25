@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Astro</h1>
-<h3 align="left">A passionate dev!</h3>
+<h3 align="left">Curious dev, learning many things at once!</h3>
 
-- 🔭  Working on an **e-reading community.**
+- 🔭  Working on an **e-reading community** and a **Firefox vocabulary add-on**.
 
 - 🌱 I’m currently learning **JS, CSS and HTML**, and a little bit of everything.
 
